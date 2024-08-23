@@ -3,7 +3,7 @@
 #include <math.h>
 
 void intswap(int *a,int *b);
-//Seection sort algorithm
+//Selection sort algorithm
 int main()//Method- Container
 {
     int array[8]={5,3,7,8,10,9,28,15};
